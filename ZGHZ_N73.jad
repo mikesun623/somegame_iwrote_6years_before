@@ -1,0 +1,10 @@
+MIDlet-Name: 张嘎后传
+MIDlet-Version: 1.0
+MIDlet-Vendor: wkk
+MIDlet-Jar-URL: ZGHZ_N73.jar
+MIDlet-Jar-Size: 418875
+MIDlet-Description: wkk
+MIDlet-Icon: /icon.png
+MIDlet-1: 张嘎后传,/icon.png,mee.GameMIDlet
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-1.0
